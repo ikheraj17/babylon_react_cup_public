@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/babylon_react_cup_public/precache-manifest.a5dad40bf6a30e993b49580a76842dad.js"
+  "/babylon_react_cup_public/precache-manifest.6ff55d2024b864c115340fdd9080fdcf.js"
 );
 
 self.addEventListener('message', (event) => {

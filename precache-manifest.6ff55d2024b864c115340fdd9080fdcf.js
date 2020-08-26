@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfeee3a222f08baf91b1c57f12945883",
+    "revision": "e408f5d02ca2170f1382caf5b31865c7",
     "url": "/babylon_react_cup_public/index.html"
   },
   {
-    "revision": "97aa71bfe4c8ab7b807e",
+    "revision": "402a5c17d733d88152f2",
     "url": "/babylon_react_cup_public/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/babylon_react_cup_public/static/js/2.f041e876.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97aa71bfe4c8ab7b807e",
-    "url": "/babylon_react_cup_public/static/js/main.2588feb9.chunk.js"
+    "revision": "402a5c17d733d88152f2",
+    "url": "/babylon_react_cup_public/static/js/main.3298cf7c.chunk.js"
   },
   {
     "revision": "07b3e59df69029677658",
