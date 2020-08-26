@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/babylon_react_cup/static/css/main.5f361e03.chunk.css",
-    "main.js": "/babylon_react_cup/static/js/main.e203c8e0.chunk.js",
-    "main.js.map": "/babylon_react_cup/static/js/main.e203c8e0.chunk.js.map",
-    "runtime-main.js": "/babylon_react_cup/static/js/runtime-main.44b75788.js",
-    "runtime-main.js.map": "/babylon_react_cup/static/js/runtime-main.44b75788.js.map",
-    "static/js/2.f041e876.chunk.js": "/babylon_react_cup/static/js/2.f041e876.chunk.js",
-    "static/js/2.f041e876.chunk.js.map": "/babylon_react_cup/static/js/2.f041e876.chunk.js.map",
-    "index.html": "/babylon_react_cup/index.html",
-    "precache-manifest.66198414011b7fb00939c73135995378.js": "/babylon_react_cup/precache-manifest.66198414011b7fb00939c73135995378.js",
-    "service-worker.js": "/babylon_react_cup/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/babylon_react_cup/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f041e876.chunk.js.LICENSE.txt": "/babylon_react_cup/static/js/2.f041e876.chunk.js.LICENSE.txt"
+    "main.css": "/babylon_react_cup_public/static/css/main.5f361e03.chunk.css",
+    "main.js": "/babylon_react_cup_public/static/js/main.2588feb9.chunk.js",
+    "main.js.map": "/babylon_react_cup_public/static/js/main.2588feb9.chunk.js.map",
+    "runtime-main.js": "/babylon_react_cup_public/static/js/runtime-main.bd504b78.js",
+    "runtime-main.js.map": "/babylon_react_cup_public/static/js/runtime-main.bd504b78.js.map",
+    "static/js/2.f041e876.chunk.js": "/babylon_react_cup_public/static/js/2.f041e876.chunk.js",
+    "static/js/2.f041e876.chunk.js.map": "/babylon_react_cup_public/static/js/2.f041e876.chunk.js.map",
+    "index.html": "/babylon_react_cup_public/index.html",
+    "precache-manifest.a5dad40bf6a30e993b49580a76842dad.js": "/babylon_react_cup_public/precache-manifest.a5dad40bf6a30e993b49580a76842dad.js",
+    "service-worker.js": "/babylon_react_cup_public/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/babylon_react_cup_public/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f041e876.chunk.js.LICENSE.txt": "/babylon_react_cup_public/static/js/2.f041e876.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.44b75788.js",
+    "static/js/runtime-main.bd504b78.js",
     "static/js/2.f041e876.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e203c8e0.chunk.js"
+    "static/js/main.2588feb9.chunk.js"
   ]
 }
