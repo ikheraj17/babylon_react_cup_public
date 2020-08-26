@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "928fd7576144888bf610642edbfb74bc",
+    "revision": "c73698b722a1a4300eb712b88eb8cc93",
     "url": "/babylon_react_cup/index.html"
   },
   {
