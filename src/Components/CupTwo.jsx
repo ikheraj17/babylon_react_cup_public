@@ -137,7 +137,7 @@ class BabylonScene extends Component {
 
     var styroMaterial = new BABYLON.StandardMaterial("styrofoam", scene);
     styroMaterial.emissiveTexture = new BABYLON.Texture(
-      "http://localhost:3000/styrofoam.jpg",
+      "https://ikheraj17.github.io/babylon_react_cup_public/styrofoam.jpg",
       scene
     );
     
